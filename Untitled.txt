@@ -1,0 +1,56 @@
+EC-380: Sprints-63/EC-380 => api => done
+EC-392: Hotfix => ecodrop view 374 => done
+EC-262: Sprints-63/APPS-EC-262 => Benneur => done
+EC-263:
+Sprints-63/APPS-EC-263: Ecodrop view, Pointp, api => done
+
+EC-264: 
+EcodropAPI
+Sprints-63/EC-264
+
+AC-265:
+Sprints-63/AC-265 => api
+Sprints-63/AC-265 => ecodrop view
+
+
+EC-270:
+Benneur
+Sprints-63/APPS-EC-270
+
+EC-276:
+EcodropAPI
+Sprints-63/EC-276
+EcodropView
+Sprints-63/EC-276
+
+
+EC-369:
+EcodropView
+Sprints-63/EC-369
+
+
+EC-378: => EC-276
+EcodropAPI
+Sprints-63/EC-276
+EcodropView
+Sprints-63/EC-276
+
+
+EC-398:
+Benneur
+Sprints-63/EC-398
+
+
+
+=========>
+EC-130 Done code
+EC-375 Done code
+EC-381 Done code
+
+EC-268:
+EcodropView
+Sprints-63/EC-268
+
+EC-329: => EC-268
+EcodropView
+Sprints-63/EC-268
